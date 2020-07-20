@@ -1,5 +1,5 @@
 ### Pedro Augusto 💻
-<p>👋 Olá, seja muito bem vindo! </p>
+<p>👋  Olá, seja muito bem vindo! </p>
 
 ------------
 
