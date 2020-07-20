@@ -3,9 +3,9 @@
 
 ------------
 
-[![Linkedin Badge](https://img.shields.io/badge/-PedroAugusto-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroarm/)
-[![Gmail Badge](https://img.shields.io/badge/-p.augusto0210@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:p.augusto0210@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-augus.tw-black?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/augus.tw/?hl=en)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroarm/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:p.augusto0210@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pedr0735)
 
 ### Habilidades
 ------------
