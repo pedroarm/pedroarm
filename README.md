@@ -9,20 +9,17 @@ Techs I like to use:
 
 > - Javascript
 > - Typescript
-> - Python
-> - VueJS
 > - ReactJS
+> - NextJS
 > - React Native
-> - Electron
 > - Git
 > - AWS Services
 > - Flutter
 
 About me:
 
-- 🔭 I am currently finishing high school and devoting myself heavily to programming 
-- 🌱 At the moment i am studying JavaScript, React and NodeJS
-- ✊🏽 I try to collaborate on social impact projects
+- 🔭 I am currently working at XPInc as Software Egineer 
+- 🌱 I'm currently delving into the latest versions of ReactJS and NextJS
 - 💡 I try to help people who are starting in programming
 - 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/pedroarm), [My E-mail](p.augusto.rib@gmail.com)
 
